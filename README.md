@@ -37,31 +37,40 @@ Développeur JS avec 10 ans d'expérience durant lesquelles j'ai alterné entre 
 
 ## <a id="competences"></a> Compétences
 
-|                      | Notes sur 10 |
+Notes sur 10
+
+| <div style="width:400px">**_LANGUAGES_**</div>   ||
 | -------------                   |:-------------:|
-| **_LANGUAGES_**                 ||
 | Javascript/ECMAScript           | 8 |
 | css (+préprocesseurs)           | 8 |
 | PHP                             | 4 |
 | NodeJS/npm                      | 7 |
 | Shell (bash/zsh)                | 6 |
-| **_FRAMEWORKS - CMS - API_**    ||
+
+| <div style="width:400px">**_FRAMEWORKS - CMS - API_**</div>    ||
+| -------------                   |:-------------:|
 | React                           | 6 |
 | AngularJS/VueJS                 | 4 |
 | React native/Ionic/Cordova      | 4 |
 | LoopBack                        | 4 |
 | Wordpress/Drupal                | 5 |
 | Firebase                        | 4 |
-| **_CI/CD - VERSIONING - TICKETING_**      ||
+
+| <div style="width:400px">**_CI/CD - VERSIONING - TICKETING_**</div>    ||
+| -------------                   |:-------------:|
 | Git/Github/Gitlab               | 6 |
 | Jira                            | 6 |
 | Jenkins                         | 3 |
-| **_LOGICIELS_**      ||
+
+| <div style="width:400px">**_LOGICIELS_**</div>      | |
+| -------------                   |:-------------:|
 | Suite Adobe                     | 6 |
 | Sketch                          | 7 |
 | Marvel App/InVision/Figma/Zeplin| 5 |
 | VS Code                         | 7 |
-| **_AUTRES_**      ||
+
+| <div style="width:400px">**_AUTRES_**</div>    | |
+| -------------                   |:-------------:|
 | Anglais (écrit / parlé)         | 8 |
 
 ## <a id="etudes"></a> Études
@@ -74,3 +83,12 @@ Développeur JS avec 10 ans d'expérience durant lesquelles j'ai alterné entre 
 
 **2003 - 2006**: Le Chesnoy - _Bac STAE_
 
+## <a id="projets-clients"></a> Exemple de projets et clients
+
+Listing de quelques projets réalisés et Clients avec qui j'ai travaillé.
+
+- [transilien](https://www.transilien.com/)
+- [lci](https://www.lci.fr/)
+- [Groupe Accor hotels](https://all.accor.com/france/index.fr.shtml) (Ibis, Novotel, Sofitel, Pulman ...)
+- [Tourisme Montréal](https://www.mtl.org/fr)
+- [Alloprof](https://www.alloprof.qc.ca/)
